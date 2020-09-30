@@ -1,1 +1,1 @@
-# codeWarsSoiutions just for remembering
+# codeWarsSolutions just for remembering
